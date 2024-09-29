@@ -1,0 +1,8 @@
+git init-is used to create an empty git repositoy
+git add <filename>- used to stage the untracked files
+git commit -used to commit the file changes
+git commit -m <message>-used to add a message for git commit
+
+git checkout -b <branch_name> = create or checkout new branch with <branch_name>
+git checkout <branch_name> = switch to <branch_name> from current_branch
+git branch =used to list a all branches in a git directory
